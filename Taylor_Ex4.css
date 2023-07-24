@@ -3,6 +3,8 @@ html{
 }
   body{
     font-family: 'Lumanosimo'; cursive;
+    margin: 20px;
+    padding: 20px;
   }  
 #image-gallery {
     margin-top: 30%;
