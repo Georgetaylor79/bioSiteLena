@@ -1,7 +1,9 @@
 html{
     background-image: url(C:\Users\14146\Desktop\Git_Projects\bioSiteLena\public\Photoshop);
 }
-    
+  body{
+    font-family: 'Lumanosimo'; cursive;
+  }  
 #image-gallery {
     margin-top: 30%;
     display: grid;
